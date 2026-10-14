@@ -1,1 +1,1 @@
-# Repositorio de ejemplo de Git
+# Repositorio de ejemplo de Github
